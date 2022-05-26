@@ -101,6 +101,7 @@ section {
 }
 body {
   line-height: 1;
+<<<<<<< HEAD
 }
 ol,
 ul {
@@ -110,6 +111,17 @@ blockquote,
 q {
   quotes: none;
 }
+=======
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+>>>>>>> f799b82b4b84182089841954701c7707055c0295
 blockquote:before,
 blockquote:after,
 q:before,
@@ -120,4 +132,8 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f799b82b4b84182089841954701c7707055c0295
